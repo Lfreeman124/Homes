@@ -1,5 +1,3 @@
-import colorado from "./colorado.jpg";
-
 export default [
   {
     title: "Loveland",
@@ -21,7 +19,7 @@ export default [
     endDate: "28 Jan, 2012",
     description:
       "Seattle was a young, creative, laid-back city with great food and access to nature. I grew into the coffee scene there, and finished my Associates degree at Seattle Central Community College.",
-    imageUrl: { colorado },
+    imageUrl: ".",
   },
   {
     title: "Chengdu",
